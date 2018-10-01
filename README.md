@@ -1,4 +1,4 @@
-# SICKERZ
+# STICKERZ
 
 A simple messaging app that is purposely vulnerable. It should NOT be used in a production environment. Stickerz is used as a playground for the "penetrationt testing course"
 at the University of Applied Siences Ulm.
