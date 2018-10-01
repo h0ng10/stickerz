@@ -23,5 +23,5 @@ python app.py
 
 You can then access the application at TCP port 5000.
 
-# Other stuff
+## Other stuff
 Stickers image by Frederik Danko, taken from [Unsplash](https://unsplash.com/photos/b1-Kfgb9OQA).  
